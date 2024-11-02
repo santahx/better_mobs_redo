@@ -1,16 +1,16 @@
+better mobs redo for luanti
 
-MOBS REDO for MINETEST
+Originally forkend from MOBS REDO for MINETEST
 
-Built from PilzAdam's original Simple Mobs with additional mobs by KrupnoPavel, Zeg9, ExeterDad and AspireMint.
-
+Built from PilzAdam's original Simple Mobs with additional mobs by KrupnoPavel, Zeg9, ExeterDad and AspireMint
 
 This mod contains the API only for adding your own mobs into the world, so please use the additional modpacks to add animals, monsters etc.
 
-
 https://forum.minetest.net/viewtopic.php?f=11&t=9917
 
-
 Changelog:
+
+Old Changelog:
 
 - 1.29- Split original Mobs Redo into a modpack to make it easier to disable mob sets (animal, monster, npc) or simply use the Api itself for your own mod
 - 1.28- New damage system added with ability for mob to be immune to weapons or healed by them :)
