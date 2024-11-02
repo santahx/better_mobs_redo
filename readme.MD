@@ -1,4 +1,4 @@
-better mobs redo for luanti
+better mobs redo for Luanti
 
 Originally forkend from MOBS REDO for MINETEST
 
